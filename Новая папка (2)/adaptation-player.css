@@ -1,0 +1,167 @@
+@media only screen and (max-width: 1200px)   {
+  .background-player {
+    padding-right: 900px;
+      padding-bottom: 40px;
+      background-color: #000000;
+      border-radius: 13px;
+      margin-top: 15px;
+
+  }
+  .background-menu {
+    padding: 16px 0;
+    background-color: #000000;
+    border-radius: 15px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    padding-left: 300px
+    margin: 0;
+    text-align: center;
+}
+html {
+  width: 1175px;
+}
+.player-anime {
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 4px solid #2F4F4F;
+    border-radius: 8px;
+}
+.fack-container {
+    width: 600px;
+    max-width: 1024px;
+    padding: 0 150px;
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    background-color: #2F4F4F;
+    margin-top: 10px;
+    border-radius: 8px
+}
+  }
+  /**/
+@media only screen and (max-width: 992px)   {
+  .background-player {
+    padding-right: 900px;
+      padding-bottom: auto;
+      background-color: #000000;
+      border-radius: 13px;
+      margin-top: 15px;
+      max-width: 100%;
+      max-height: 100%;
+     height: 80%;
+  }
+  p {
+    font-size:28px;
+  }
+  .fack-container {
+      width: 765px;
+      max-width: 20199px;
+      padding: 0 70px;
+      list-style-type: none;
+      text-decoration: none;
+      display: inline-block;
+      text-transform: uppercase;
+      background-color: #2F4F4F;
+      margin-top: 100px;
+      border-radius: 8px
+
+  }
+  h1 {
+    font-size: 38px;
+    margin-right: 100px;
+    margin-left: -100px;
+  }
+  .player-anime {
+      margin-left: 70px;
+      margin-top: 20px;
+      border: 4px solid #2F4F4F;
+      border-radius: 8px;
+  }
+  .anime-icon {
+    border-radius: 15px;
+    border: 3px solid #ffff;
+    height: 400px;
+    width: 300px;
+    margin-top: 150px;
+}
+a {
+  font-size:24px;
+}
+.background-menu {
+  padding: 26px 0;
+  background-color: #000000;
+  border-radius: 15px;
+}
+.background {
+  height: auto;
+}
+body {
+  height: auto;
+ width: auto;
+}
+.container-anime {
+  margin-left: 0px;
+}
+nav ul li:first-child {
+  margin-left: -70px;
+}
+}
+  /**/
+@media only screen and (max-width: 768px)   {
+  .background-player {
+    padding-right: 900px;
+      padding-bottom: auto;
+      background-color: #000000;
+      border-radius: 13px;
+      margin-top: 15px;
+      height: 80%;
+      width: 80%;
+
+  }
+  p {
+    font-size:28px;
+  }
+  .fack-container {
+      width: 600px;
+      max-width: 1024px;
+      padding: 0 150px;
+      list-style-type: none;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      text-transform: uppercase;
+      background-color: #2F4F4F;
+      margin-top: 150px;
+      border-radius: 8px
+
+  }
+  .player-anime {
+      margin-left: -50px;
+      margin-top: 20px;
+      border: 4px solid #2F4F4F;
+      border-radius: 8px;
+  }
+  .anime-icon {
+    border-radius: 15px;
+    border: 3px solid #ffff;
+    height: 500px;
+    width: 300px;
+}
+a {
+  font-size:24px;
+}
+.background-menu {
+  padding: 26px 0;
+  background-color: #000000;
+  border-radius: 15px;
+}
+}
+  /**/
+@media only screen and (max-width: 480px)   {
+
+
+@media only screen and (max-width: 320px)   {

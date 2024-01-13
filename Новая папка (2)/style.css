@@ -1,0 +1,348 @@
+.lan {
+text-indent: 700px;
+color: white
+}
+html {
+       background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614408745_8-p-temnii-fon-dlya-logotipa-11.jpg) no-repeat center center fixed;
+       -webkit-background-size: auto;
+       -moz-background-size: cover;
+       -o-background-size: auto;
+       background-size: 100% 100%;
+}
+html, body {width:100%; overflow-x:hidden}
+.background-menu {
+  padding: 16px 0;
+  background-color: #000000;
+  border-radius: 15px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+nav ul li {
+display: inline-block;
+  margin-left: 100px;
+  text-transform: uppercase;
+}
+
+nav ul li:first-child {
+  margin-left: 90px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu :hover  {
+  color: #4682B4;
+}
+
+.container-anime {
+  width: auto;
+  max-width: 1024px;
+  padding: 0 150px;
+  margin: 0 auto ;
+  margin-left: auto;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+}
+
+.container-player {
+  max-width: 90%;
+  padding-top: 205px;
+  padding-left: 411px;
+  padding-bottom: auto;
+  padding: 0 150px;
+  margin: 0 auto ;
+  margin-left: auto;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+}
+
+.background-anime {
+  padding: 10px;
+  background-color: #000000;
+  border-radius: 13px;
+  margin-top : 15px;
+}
+
+.background-player {
+  padding: ;
+  padding-bottom: 40px;
+  background-color: #000000;
+  border-radius: 13px;
+  margin-top : 15px;
+  background: url(http://cdn.oboi7.com/d7f8abf64880e45137c3379c242a7141811daa26/abstrakcii-chernyj-cvet-gradient.jpg)
+}
+
+.player {
+  margin-top: 500px;
+  position: absolute;
+  color: #ffff;
+  margin-left: 400px;
+}
+
+.anime {
+  margin-right: 700px;
+  padding-bottom: 14px;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: blue orange;
+}
+
+*::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+*::-webkit-scrollbar-track {
+  background-color: #000000;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #808080;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  height: auto;
+}
+
+.button-anime {
+  margin-left: 900px;
+}
+
+.button-anime {
+  padding: 12px 20px;
+   border-radius: 20px;
+   background-color: #5F9EA0;
+   border: 2px solid #5F9EA0;
+   color: #5F9EA0;
+   font-weight: bold;
+   transition: all .5s;
+}
+
+
+.cheak :hover  {
+  color: #000000
+}
+
+.cheak {
+  display: inline-block;
+  background: #2d3d34;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+  cursor: pointer;
+}
+
+.cheak1 {
+  display: inline-block;
+  background: #2F4F4F;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+  cursor: pointer;
+}
+
+.button-anime:hover {
+  background: #4682B4;
+  color: #fff;
+}
+
+ .cheak:hover  {
+   background: #4682B4;
+   color: #fff;
+ }
+
+ .cheak1:hover  {
+   background: #4682B4;
+   color: #fff;
+ }
+
+::backdrop {
+  backdrop-filter: blur(10px);
+}
+
+.password-menu {
+  background-color: #2e2e29  ;
+  border-radius: 15px;
+  color: #ffff;
+  border: 3px solid #737369;
+  padding: 5px 5px;
+}
+
+.password-blank {
+  border-radius: 7px;
+}
+
+.info {
+  color: #C0C0C0;
+  position: absolute;
+    width: auto;
+    max-width: 1024px;
+    padding: 0 150px;
+    margin: 0 auto ;
+    margin-left: 160px;
+}
+
+.info-player {
+  color: #C0C0C0;
+    position: absolute;
+    width: auto;
+    padding-top: 1000px;
+    max-width: 1024px;
+    padding: 0 150px;
+    margin-left: 0px;
+}
+.li-player {
+  margin-right: 300px;
+}
+.anime-icon {
+  border-radius: 15px;
+  border: 3px solid #ffff;
+}
+
+.support {
+   background-color: #000000;
+   border: 2px solid #000000;
+   color: #000000;
+   text-decoration: none;
+   text-transform: uppercase;
+   display: inline-block;
+   transition: all .5s;
+   list-style-type: none;
+}
+
+.support:hover {
+ color: #ffff;
+}
+
+.page {
+  padding: 8px 20px;
+   border-radius: 20px;
+   background-color: #A9A9A9;
+   border: 2px solid #696969;
+   color: #ffff;
+   font-weight: bold;
+   transition: all .5s;
+   margin-left:  760px;
+   margin-right: 10px;
+}
+
+.page-1 {
+  padding: 8px 20px;
+   border-radius: 20px;
+   background-color: #A9A9A9;
+   border: 2px solid #696969;
+   color: #ffff;
+   font-weight: bold;
+   transition: all .5s;
+   margin-left:  690px;
+   margin-right: 10px;
+}
+
+.page-2 {
+  padding: 8px 20px;
+   border-radius: 20px;
+   background-color: #A9A9A9;
+   border: 2px solid #696969;
+   color: #ffff;
+   font-weight: bold;
+   transition: all .5s;
+   margin-left:  690px;
+   margin-right: 10px;
+   margin-top: 10px;
+}
+
+.list1 {
+    padding: 8px 20px;
+     border-radius: 20px;
+     background-color: #A9A9A9;
+     border: 2px solid #696969;
+     color: #ffff;
+     font-weight: bold;
+     transition: all .5s;
+     margin-left:  620px;
+     margin-right: 10px;
+     position: absolute;
+
+}
+
+.list1-down {
+    padding: 8px 20px;
+     border-radius: 20px;
+     background-color: #A9A9A9;
+     border: 2px solid #696969;
+     color: #ffff;
+     font-weight: bold;
+     transition: all .5s;
+     margin-left:  620px;
+     margin-right: 10px;
+     position: absolute;
+     margin-top: 10px;
+}
+
+.page-down {
+  padding: 8px 20px;
+   border-radius: 20px;
+   background-color: #A9A9A9;
+   border: 2px solid #696969;
+   color: #ffff;
+   font-weight: bold;
+   transition: all .5s;
+   margin-left:  760px;
+   margin-right: 10px;
+   margin-top: 10px;
+}
+
+.player-anime {
+  margin-left: 115px;
+  margin-top: 20px;
+  border: 4px solid #2F4F4F;
+  border-radius: 8px;
+}
+
+.fack {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: -30px;
+  color: #C0C0C0
+}
+
+.fack-container {
+  width: auto;
+  max-width: 1024px;
+  padding: 0 150px;
+  list-style-type: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-transform: uppercase;
+  background-color: #2F4F4F;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+.anime-fack {
+  position: relative;
+  margin-right: 720px;
+  margin-top: 35px;
+}
